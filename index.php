@@ -7,7 +7,7 @@
 </head>
 <body>
   <h1>hello world</h1>
-  <p>Lorem ipsum dolor sit amet.</p>
+  <p>Belajar Progamming</p>
   <ul>
     <li>one</li>
     <li>two</li>
